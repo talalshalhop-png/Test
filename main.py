@@ -24,7 +24,7 @@ from telegram.ext import (
 )
 
 TOKEN = "8229290474:AAGX-MRndjwESpxPE_PwqCPJ8OZvOpuVvRw"
-ADMIN_ID = 5967166149
+ADMIN_ID = 7925936169
 # بيانات الشام كاش
 SHAM_CASH_NUMBER = "cb9f5afc5c2dfba507737215c32b71a9"  # رقم محفظتك
 SHAM_CASH_NAME = " أبو فهد"     # اسمك المعتمد
